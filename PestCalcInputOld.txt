@@ -1,0 +1,62 @@
+LandisData "Pest Calc"
+
+Timestep	5
+
+SummaryTableAnalysis	Median << Average or Minimum or Median
+			       << This determines how the data will be summarized
+			       << when Timestep > 1.
+
+LogFile		PestLogFile.txt
+TableLogFile	PestSppEcoregionTable.txt
+
+>> Species Data
+>> Species	allowDrought	Growing		Min	NitrogenTolerance
+>> code 	(% of growing	DegreeDays	JanTemp	1=low; 3=high
+>>		season)		maxGDD minGDD	(C)
+abiebals	0.165		2386	560	-25	2
+acersacc 	0.268		3100 	1222	-18	1
+betupapy	0.280		2036  	484	-28	2
+betualle	0.200		2500 	1100	-18	1
+fraxamer	0.280		5993 	1398	-12     1
+larilari	0.267		2660  	280	-29	3
+picemari	0.270		1911  	247	-30	3
+piceglau	0.309		1911  	280	-30	2
+pinubank	0.411		2216  	830	-30	3
+pinuresi	0.385		2035 	1100	-20	3
+pinustro	0.310		3165 	1100	-20	3
+poputrem	0.267		2461  	743	-30	2
+tsugcana	0.180		3800 	1324	-18	1
+
+EcoregionTable
+>>Ecoregion	FieldCapacity	WiltingPoint	Latitude	Longitude  BaseSoilNitrogen
+>>number	(cm)		(cm)					   (Mg / ha)
+1001		20		8		46.3		90.8	   10.0
+1002		15		8		46.3		90.8       5.0
+
+MonthlyClimateData
+>>EcoNum Month	AvgMinT	AvgMaxT	StdDevT	AvgPpt	StdDevPpt
+>>		(C)	(C)		(cm)
+1001	1	-23.99	-12.68	3.4	2.6	1.5
+1001	2	-18.95	-6.85	3.3	1.9	1.5
+1001	3	-8.86	3.84	2.9	5.1	2.3
+1001	4	-3.72	10.48	2.1	6	2.8
+1001	5	2.59	19.64	2.3	9	3.6
+1001	6	10.93	24.41	1.7	10.4	5
+1001	7	11.44	23.04	1.4	12.4	4.4
+1001	8	9.54	21.42	1.5	12.2	5.3
+1001	9	8.98	20.16	1.6	15.5	5.2
+1001	10	2.32	13.6	2.1	8.4	3.6
+1001	11	-4.94	5.51	2.0	5.8	2.5
+1001	12	-11.01	-0.42	3.0	3.1	1.4
+1002	1	-23.99	-12.68	3.4	2.6	1.5
+1002	2	-18.95	-6.85	3.3	1.9	1.5
+1002	3	-8.86	3.84	2.9	5.1	2.3
+1002	4	-3.72	10.48	2.1	6	2.8
+1002	5	2.59	19.64	2.3	9	3.6
+1002	6	10.93	24.41	1.7	10.4	5
+1002	7	11.44	23.04	1.4	12.4	4.4
+1002	8	9.54	21.42	1.5	12.2	5.3
+1002	9	8.98	20.16	1.6	15.5	5.2
+1002	10	2.32	13.6	2.1	8.4	3.6
+1002	11	-4.94	5.51	2.0	5.8	2.5
+1002	12	-11.01	-0.42	3.0	3.1	1.4

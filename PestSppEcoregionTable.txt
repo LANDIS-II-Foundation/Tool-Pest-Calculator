@@ -1,0 +1,14 @@
+1001   1002   
+abiebals  0.000  0.622
+acersacc  0.000  0.000
+betupapy  0.623  0.622
+betualle  0.000  0.000
+fraxamer  0.000  0.000
+larilari  0.957  0.954
+picemari  0.413  0.423
+piceglau  0.420  0.430
+pinubank  0.922  0.926
+pinuresi  0.000  0.000
+pinustro  0.000  0.000
+poputrem  0.901  0.622
+tsugcana  0.000  0.000

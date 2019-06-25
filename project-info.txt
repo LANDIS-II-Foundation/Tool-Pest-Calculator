@@ -1,0 +1,6 @@
+#  project information
+
+project-name	Landis.PestCalculator
+project-type	program
+version		1.0
+release		alpha 1

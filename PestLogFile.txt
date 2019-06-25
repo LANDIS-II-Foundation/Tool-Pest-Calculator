@@ -1,0 +1,600 @@
+ Weather:  Number GDD = 1772. Chilling Period = 145. Begin Grow Season = 134. End Grow Season = 260. TotalAnnualPpt = 092.4. MeanJanuaryLowTemp = -28.6.
+ Soils:  Dry Days = 0. Actual ET = 57.2. Potential ET = 57.6. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.56, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.30, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.94, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.31, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.31, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.87, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.81, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.88, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.59, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1520. Chilling Period = 146. Begin Grow Season = 131. End Grow Season = 280. TotalAnnualPpt = 080.2. MeanJanuaryLowTemp = -26.3.
+ Soils:  Dry Days = 0. Actual ET = 54.4. Potential ET = 55.1. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.53, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.10, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.72, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.73, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.65, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1565. Chilling Period = 149. Begin Grow Season = 129. End Grow Season = 267. TotalAnnualPpt = 111.9. MeanJanuaryLowTemp = -26.5.
+ Soils:  Dry Days = 0. Actual ET = 54.8. Potential ET = 54.8. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.60, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.85, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.14, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.66, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.70, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.35, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1477. Chilling Period = 151. Begin Grow Season = 133. End Grow Season = 265. TotalAnnualPpt = 103.9. MeanJanuaryLowTemp = -30.7.
+ Soils:  Dry Days = 0. Actual ET = 51.9. Potential ET = 52.5. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.47, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.07, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.77, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.60, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.23, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1421. Chilling Period = 153. Begin Grow Season = 123. End Grow Season = 259. TotalAnnualPpt = 093.1. MeanJanuaryLowTemp = -27.4.
+ Soils:  Dry Days = 0. Actual ET = 50.5. Potential ET = 51.1. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.38, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.71, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.02, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.53, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.15, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1713. Chilling Period = 140. Begin Grow Season = 128. End Grow Season = 269. TotalAnnualPpt = 095.9. MeanJanuaryLowTemp = -22.9.
+ Soils:  Dry Days = 0. Actual ET = 57.7. Potential ET = 58.0. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.77, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.66, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.26, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.42, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.43, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.53, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1658. Chilling Period = 148. Begin Grow Season = 133. End Grow Season = 262. TotalAnnualPpt = 084.9. MeanJanuaryLowTemp = -25.5.
+ Soils:  Dry Days = 0. Actual ET = 55.3. Potential ET = 55.9. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.71, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.74, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.21, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.52, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.52, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.47, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1725. Chilling Period = 143. Begin Grow Season = 124. End Grow Season = 269. TotalAnnualPpt = 099.5. MeanJanuaryLowTemp = -29.8.
+ Soils:  Dry Days = 0. Actual ET = 58.2. Potential ET = 58.2. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.64, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.26, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.40, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.40, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.54, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1599. Chilling Period = 144. Begin Grow Season = 130. End Grow Season = 276. TotalAnnualPpt = 093.2. MeanJanuaryLowTemp = -26.3.
+ Soils:  Dry Days = 0. Actual ET = 55.1. Potential ET = 55.5. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.64, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.81, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.17, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.61, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.62, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.73, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.39, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1637. Chilling Period = 143. Begin Grow Season = 135. End Grow Season = 242. TotalAnnualPpt = 105.4. MeanJanuaryLowTemp = -28.2.
+ Soils:  Dry Days = 0. Actual ET = 55.1. Potential ET = 56.3. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.69, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.76, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.20, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.55, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.56, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.77, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.44, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1855. Chilling Period = 143. Begin Grow Season = 135. End Grow Season = 261. TotalAnnualPpt = 092.9. MeanJanuaryLowTemp = -24.7.
+ Soils:  Dry Days = 0. Actual ET = 57.5. Potential ET = 58.3. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.82, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.41, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.36, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.13, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.13, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.77, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.62, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.91, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 2020. Chilling Period = 141. Begin Grow Season = 124. End Grow Season = 271. TotalAnnualPpt = 100.9. MeanJanuaryLowTemp = -26.6.
+ Soils:  Dry Days = 0. Actual ET = 60.3. Potential ET = 60.3. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.64, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.04, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.47, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.49, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.06, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.76, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.81, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1645. Chilling Period = 146. Begin Grow Season = 130. End Grow Season = 269. TotalAnnualPpt = 101.5. MeanJanuaryLowTemp = -19.3.
+ Soils:  Dry Days = 0. Actual ET = 53.5. Potential ET = 55.1. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.70, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.75, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.20, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.54, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.55, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.45, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1781. Chilling Period = 147. Begin Grow Season = 127. End Grow Season = 273. TotalAnnualPpt = 092.4. MeanJanuaryLowTemp = -26.7.
+ Soils:  Dry Days = 0. Actual ET = 56.7. Potential ET = 56.9. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.55, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.31, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.88, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.60, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1755. Chilling Period = 146. Begin Grow Season = 130. End Grow Season = 230. TotalAnnualPpt = 088.2. MeanJanuaryLowTemp = -23.4.
+ Soils:  Dry Days = 0. Actual ET = 55.7. Potential ET = 56.4. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.81, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.59, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.94, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.34, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.35, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.87, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.58, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1751. Chilling Period = 143. Begin Grow Season = 124. End Grow Season = 278. TotalAnnualPpt = 099.9. MeanJanuaryLowTemp = -33.0.
+ Soils:  Dry Days = 0. Actual ET = 56.2. Potential ET = 56.9. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.91, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.81, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.60, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.28, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.94, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.35, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.35, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.85, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.57, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1813. Chilling Period = 149. Begin Grow Season = 125. End Grow Season = 270. TotalAnnualPpt = 103.5. MeanJanuaryLowTemp = -21.3.
+ Soils:  Dry Days = 0. Actual ET = 57.6. Potential ET = 58.0. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.49, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.33, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.22, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.23, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.82, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.72, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.94, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.63, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1560. Chilling Period = 151. Begin Grow Season = 131. End Grow Season = 264. TotalAnnualPpt = 081.6. MeanJanuaryLowTemp = -27.3.
+ Soils:  Dry Days = 0. Actual ET = 53.0. Potential ET = 54.5. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.59, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.85, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.88, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.14, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.68, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.69, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.34, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1717. Chilling Period = 146. Begin Grow Season = 127. End Grow Season = 260. TotalAnnualPpt = 088.5. MeanJanuaryLowTemp = -25.5.
+ Soils:  Dry Days = 0. Actual ET = 58.7. Potential ET = 58.7. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.65, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.26, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.41, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.42, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.53, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1716. Chilling Period = 148. Begin Grow Season = 125. End Grow Season = 249. TotalAnnualPpt = 071.3. MeanJanuaryLowTemp = -21.4.
+ Soils:  Dry Days = 0. Actual ET = 54.3. Potential ET = 55.1. Field Capcity = 20. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = acersacc, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = betupapy, TempMultiplier(Botkin) = 0.65, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.26, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 1.00.
+Spp = larilari, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.41, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.42, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = pinubank, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.90.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.53, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+ Weather:  Number GDD = 1735. Chilling Period = 150. Begin Grow Season = 128. End Grow Season = 277. TotalAnnualPpt = 101.7. MeanJanuaryLowTemp = -27.9.
+ Soils:  Dry Days = 0. Actual ET = 56.6. Potential ET = 56.6. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.63, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.27, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.38, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.39, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.91, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.87, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.85, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.55, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1621. Chilling Period = 140. Begin Grow Season = 125. End Grow Season = 267. TotalAnnualPpt = 081.8. MeanJanuaryLowTemp = -22.6.
+ Soils:  Dry Days = 0. Actual ET = 56.1. Potential ET = 56.3. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.18, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.58, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.58, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.75, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.42, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1619. Chilling Period = 145. Begin Grow Season = 131. End Grow Season = 272. TotalAnnualPpt = 098.1. MeanJanuaryLowTemp = -30.5.
+ Soils:  Dry Days = 0. Actual ET = 55.5. Potential ET = 56.5. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.18, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.58, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.59, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.75, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.42, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1615. Chilling Period = 150. Begin Grow Season = 126. End Grow Season = 249. TotalAnnualPpt = 123.7. MeanJanuaryLowTemp = -32.5.
+ Soils:  Dry Days = 0. Actual ET = 55.8. Potential ET = 55.8. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.66, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.18, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.58, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.59, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.75, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.41, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1542. Chilling Period = 145. Begin Grow Season = 119. End Grow Season = 252. TotalAnnualPpt = 095.5. MeanJanuaryLowTemp = -20.3.
+ Soils:  Dry Days = 0. Actual ET = 51.9. Potential ET = 54.9. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.57, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.87, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.12, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.69, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.70, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.32, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1782. Chilling Period = 155. Begin Grow Season = 124. End Grow Season = 253. TotalAnnualPpt = 116.1. MeanJanuaryLowTemp = -24.0.
+ Soils:  Dry Days = 0. Actual ET = 57.1. Potential ET = 57.1. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.55, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.31, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.88, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.60, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1636. Chilling Period = 150. Begin Grow Season = 135. End Grow Season = 268. TotalAnnualPpt = 112.0. MeanJanuaryLowTemp = -20.1.
+ Soils:  Dry Days = 0. Actual ET = 54.9. Potential ET = 55.7. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.69, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.77, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.20, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.55, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.56, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.77, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.44, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1764. Chilling Period = 145. Begin Grow Season = 126. End Grow Season = 233. TotalAnnualPpt = 104.5. MeanJanuaryLowTemp = -19.9.
+ Soils:  Dry Days = 0. Actual ET = 57.7. Potential ET = 57.7. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.82, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.58, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.94, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.32, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.33, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.88, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.82, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.87, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.58, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1773. Chilling Period = 152. Begin Grow Season = 134. End Grow Season = 275. TotalAnnualPpt = 075.7. MeanJanuaryLowTemp = -24.4.
+ Soils:  Dry Days = 18. Actual ET = 53.8. Potential ET = 56.2. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.48. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.73. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.56, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.74. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.61. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.30, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.74. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.94, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.72. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.30, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.73. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.31, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.77. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.87, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.83. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.81, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.82. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.88, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.77. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.72. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.59, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.54. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1520. Chilling Period = 144. Begin Grow Season = 122. End Grow Season = 248. TotalAnnualPpt = 096.1. MeanJanuaryLowTemp = -25.4.
+ Soils:  Dry Days = 0. Actual ET = 51.9. Potential ET = 52.6. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.53, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.10, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.72, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.73, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.65, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.29, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1746. Chilling Period = 143. Begin Grow Season = 134. End Grow Season = 265. TotalAnnualPpt = 115.5. MeanJanuaryLowTemp = -25.1.
+ Soils:  Dry Days = 0. Actual ET = 56.3. Potential ET = 56.3. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.91, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.80, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.61, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.28, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.36, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.36, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.85, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.57, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1664. Chilling Period = 146. Begin Grow Season = 128. End Grow Season = 272. TotalAnnualPpt = 101.4. MeanJanuaryLowTemp = -28.7.
+ Soils:  Dry Days = 0. Actual ET = 56.1. Potential ET = 56.2. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.72, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.73, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.22, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.51, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.51, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.47, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1538. Chilling Period = 142. Begin Grow Season = 127. End Grow Season = 268. TotalAnnualPpt = 134.6. MeanJanuaryLowTemp = -20.2.
+ Soils:  Dry Days = 0. Actual ET = 53.6. Potential ET = 53.6. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.56, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.87, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.86, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.12, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.70, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.71, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.32, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1435. Chilling Period = 150. Begin Grow Season = 134. End Grow Season = 267. TotalAnnualPpt = 109.1. MeanJanuaryLowTemp = -23.7.
+ Soils:  Dry Days = 0. Actual ET = 52.0. Potential ET = 52.3. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.40, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.73, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.03, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.82, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.54, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.17, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1717. Chilling Period = 156. Begin Grow Season = 120. End Grow Season = 265. TotalAnnualPpt = 085.8. MeanJanuaryLowTemp = -16.1.
+ Soils:  Dry Days = 0. Actual ET = 57.7. Potential ET = 58.6. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.65, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.26, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.41, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.42, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.84, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.53, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1705. Chilling Period = 144. Begin Grow Season = 127. End Grow Season = 262. TotalAnnualPpt = 092.4. MeanJanuaryLowTemp = -24.0.
+ Soils:  Dry Days = 4. Actual ET = 54.4. Potential ET = 57.0. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.94, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.91. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.76, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.94. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.95. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.92. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.25, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.95. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.94. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.43, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.94. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.44, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.95. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.93, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.96. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.91, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.96. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.95. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.94. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.52, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.91. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1512. Chilling Period = 155. Begin Grow Season = 130. End Grow Season = 273. TotalAnnualPpt = 096.5. MeanJanuaryLowTemp = -21.6.
+ Soils:  Dry Days = 0. Actual ET = 54.7. Potential ET = 55.1. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.52, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.10, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.73, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.74, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.64, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.28, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1846. Chilling Period = 145. Begin Grow Season = 123. End Grow Season = 280. TotalAnnualPpt = 093.8. MeanJanuaryLowTemp = -24.4.
+ Soils:  Dry Days = 0. Actual ET = 58.9. Potential ET = 59.3. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.83, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.89, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.43, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.35, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.90, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.15, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.15, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.78, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.65, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.67, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1661. Chilling Period = 148. Begin Grow Season = 130. End Grow Season = 266. TotalAnnualPpt = 088.8. MeanJanuaryLowTemp = -25.2.
+ Soils:  Dry Days = 0. Actual ET = 54.5. Potential ET = 54.7. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.72, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.73, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.22, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.97, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.51, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.52, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.96, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 1.00, MinJanTempMultiplier = 1.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.47, MinJanTempMultiplier = 0.00, SoilMultiplier = 1.00. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+ Weather:  Number GDD = 1728. Chilling Period = 145. Begin Grow Season = 127. End Grow Season = 267. TotalAnnualPpt = 077.6. MeanJanuaryLowTemp = -19.0.
+ Soils:  Dry Days = 15. Actual ET = 52.7. Potential ET = 56.7. Field Capcity = 15. Field Wilting Point = 8.
+Spp = abiebals, TempMultiplier(Botkin) = 0.92, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.60. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = acersacc, TempMultiplier(Botkin) = 0.79, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.78. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = betupapy, TempMultiplier(Botkin) = 0.64, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.79. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = betualle, TempMultiplier(Botkin) = 0.99, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.68. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
+Spp = fraxamer, TempMultiplier(Botkin) = 0.27, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.79. ChillDayMultiplier = 0.00. NMultiplier = 0.58.
+Spp = larilari, TempMultiplier(Botkin) = 0.95, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.78. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = picemari, TempMultiplier(Botkin) = 0.39, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.78. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = piceglau, TempMultiplier(Botkin) = 0.40, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.81. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = pinubank, TempMultiplier(Botkin) = 0.91, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.86. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinuresi, TempMultiplier(Botkin) = 0.88, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.85. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = pinustro, TempMultiplier(Botkin) = 0.85, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.81. ChillDayMultiplier = 1.00. NMultiplier = 1.00.
+Spp = poputrem, TempMultiplier(Botkin) = 0.98, MinJanTempMultiplier = 1.00, SoilMultiplier = 0.78. ChillDayMultiplier = 1.00. NMultiplier = 0.62.
+Spp = tsugcana, TempMultiplier(Botkin) = 0.55, MinJanTempMultiplier = 0.00, SoilMultiplier = 0.64. ChillDayMultiplier = 1.00. NMultiplier = 0.58.
